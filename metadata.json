@@ -1,0 +1,6 @@
+{
+  "name": "i-CATS Invention & Innovation Club",
+  "description": "Official website for the i-CATS Invention & Innovation Club. Create. Collaborate. Innovate. An interdisciplinary university community for student projects, entrepreneurship, technology, and creative problem solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
